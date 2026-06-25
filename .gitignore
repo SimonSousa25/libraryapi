@@ -5,9 +5,9 @@ target/
 !**/src/test/**/target/
 
 ## Arquivos para serem ignorados ##
-application.yml
-comandos-docker.txt
-comandos-sql.txt
+src/main/resources/application.yml
+src/main/resources/comandos-docker.txt
+src/main/resources/comandos-sql.txt
 
 ### STS ###
 .apt_generated
